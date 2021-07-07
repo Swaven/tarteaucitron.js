@@ -79,6 +79,6 @@ tarteaucitron.lang = {
 		"details" : "Tjenester for å vise innhold på nettet."
 	},
 
-	"mandatoryTitle" : "Obligatoriske informasjonskapsler",
+	"mandatoryTitle" : "Swaven",
 	"mandatoryText"  : "Dette nettstedet bruker obligatoriske informasjonskapsler som er nødvendige for at nettstedet skal fungere som det skal. Disse kan ikke deaktiveres."
 };

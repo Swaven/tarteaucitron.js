@@ -79,6 +79,6 @@ tarteaucitron.lang = {
         "details": "Tjänster för att visa webbinnehåll."
     },
     
-    "mandatoryTitle": "Mandatory cookies",
+    "mandatoryTitle": "Swaven",
     "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
 };

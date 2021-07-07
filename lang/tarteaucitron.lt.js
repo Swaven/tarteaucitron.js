@@ -79,6 +79,6 @@ tarteaucitron.lang = {
         "details": "Paslaugos, rodančios svetainės turinį."
     },
     
-    "mandatoryTitle": "Privalomi slapukai",
+    "mandatoryTitle": "Swaven",
     "mandatoryText": "Ši svetainė naudoja slapukus, reikalingus tinkamam jos veikimui, kurių negalima išjungti."
 };

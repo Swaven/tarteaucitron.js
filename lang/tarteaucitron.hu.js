@@ -79,6 +79,6 @@ tarteaucitron.lang = {
         "details": "Szolgáltatások webtartalom megjelenítésére."
     },
     
-    "mandatoryTitle": "Kötelező sütik",
+    "mandatoryTitle": "Swaven",
     "mandatoryText": "A webhely tartalmának megjelenítéséhez és a felhasználói bejelentkezéshez sütiket használunk amiket nem lehet kikapcsolni."
 };
