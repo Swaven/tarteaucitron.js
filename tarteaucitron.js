@@ -75,6 +75,7 @@ var tarteaucitron = {
                 });
             }
 
+            /*
             if (typeof XMLHttpRequest !== 'undefined') {
                 origOpen = XMLHttpRequest.prototype.open;
                 XMLHttpRequest.prototype.open = function () {
@@ -102,6 +103,7 @@ var tarteaucitron = {
                     } catch (err) {}
                 };
             }
+            */
         }
 
         if(tarteaucitron.events.init) {
@@ -254,7 +256,7 @@ var tarteaucitron = {
             linkElement.rel = 'stylesheet';
             linkElement.type = 'text/css';
             linkElement.href = cdn + 'css/tarteaucitron' + (useJSDelivrMinifiedJS ? '.min' : '') + '.css?v=' + tarteaucitron.version;
-            document.getElementsByTagName('head')[0].appendChild(linkElement);
+            document.head.appendChild(linkElement);
         }
         // Step 2: load language and services
         tarteaucitron.addInternalScript(pathToLang, '', function () {
