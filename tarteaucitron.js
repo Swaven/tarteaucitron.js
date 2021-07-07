@@ -349,7 +349,10 @@ var tarteaucitron = {
              html += '<li class="tarteaucitronLine">';
              html += '   <div class="tarteaucitronName">';
              html += '       <span class="tarteaucitronH3" role="heading" aria-level="3">' + tarteaucitron.lang.mandatoryText + '</span>';
-             html += '       <span class="tarteaucitronListCookies"></span><br/>';
+             // html += '       <span class="tarteaucitronListCookies"></span><br/>';
+             html += '       <a href="https://www.swaven.com/pop-privacy-policy/" target="_blank" rel="noreferrer noopener" title="' + tarteaucitron.lang.source + ' Swaven ' + tarteaucitron.lang.newWindow + '" class="tarteaucitronReadmoreOfficial">';
+             html += '           ' + tarteaucitron.lang.source;
+             html += '       </a>';
              html += '   </div>';
              html += '   <div class="tarteaucitronAsk">';
              html += '       <button type="button" class="tarteaucitronAllow" tabindex="-1" disabled>';
@@ -766,6 +769,7 @@ var tarteaucitron = {
             html += '       <span id="tacCL' + service.key + '" class="tarteaucitronListCookies"></span><br/>';
             if (tarteaucitron.parameters.moreInfoLink == true) {
 
+              /*
                 var link = 'https://tarteaucitron.io/service/' + service.key + '/';
                 if (service.readmoreLink !== undefined && service.readmoreLink !== '') {
                     link = service.readmoreLink;
@@ -777,6 +781,7 @@ var tarteaucitron = {
                 html += '           ' + tarteaucitron.lang.more;
                 html += '       </a>';
                 html += '       <span class="tarteaucitronReadmoreSeparator"> - </span>';
+              */
                 html += '       <a href="' + service.uri + '" target="_blank" rel="noreferrer noopener" title="' + tarteaucitron.lang.source + ' ' + service.name + ' ' + tarteaucitron.lang.newWindow + '" class="tarteaucitronReadmoreOfficial">';
                 html += '           ' + tarteaucitron.lang.source;
                 html += '       </a>';
