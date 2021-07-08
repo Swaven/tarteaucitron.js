@@ -1527,7 +1527,7 @@ var tarteaucitron = {
 
             var d = new Date(),
                 time = d.getTime(),
-                expireTime = time + 30 * 86400, // 30 days
+                expireTime = time + 30 * 86400 * 1e3, // 30 days in ms
                 regex = new RegExp("!" + key + "=(wait|true|false)", "g"),
                 cookie = tarteaucitron.cookie.read().replace(regex, ""),
                 value = tarteaucitron.parameters.cookieName + '=' + cookie + '!' + key + '=' + status,
