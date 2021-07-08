@@ -9,7 +9,7 @@ tarteaucitron.lang = {
     "alertBigClick": "Nếu bạn tiếp tục truy cập trang web này,",
     "alertBig": "bạn đang cho phép tất cả các dịch vụ của bên thứ ba",
 
-    "alertBigPrivacy": "Trang web này sử dụng cookie và cung cấp cho bạn quyền kiểm soát những gì bạn muốn kích hoạt",
+    "alertBigPrivacy": "Đối tác của chúng tôi muốn sử dụng cookie để tối ưu hóa lưu lượng truy cập của họ.",
     "alertSmall": "Quản lý dịch vụ",
     "acceptAll": "OK, đồng ý",
     "personalize": "Cá nhân",
@@ -78,7 +78,7 @@ tarteaucitron.lang = {
         "title": "Dịch vụ khác",
         "details": "Dịch vụ hiển thị nội dung web."
     },
-    
-    "mandatoryTitle": "Mandatory cookies",
+
+    "mandatoryTitle": "Swaven",
     "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
 };

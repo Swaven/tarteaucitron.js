@@ -8,7 +8,7 @@ tarteaucitron.lang = {
     "alertBigClick": "继续浏览，",
     "alertBig": "即表示您同意第三方服务安装cookie",
 
-    "alertBigPrivacy": "这个网站使用cookie， 并让您可以控制想要激活的内容。",
+    "alertBigPrivacy": "我们的合作伙伴希望使用 cookie 来优化其流量。",
     "alertSmall": "服务管理",
     "acceptAll": "好的，全部接受",
     "personalize": "个性化",
@@ -75,7 +75,7 @@ tarteaucitron.lang = {
         "title": "其他",
         "details": "旨在显示网页内容的服务。"
     },
-    
-    "mandatoryTitle": "Mandatory cookies",
+
+    "mandatoryTitle": "Swaven",
     "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
 };

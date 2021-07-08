@@ -44,7 +44,7 @@ span.tarteaucitronH3 {
     html body #tarteaucitronRoot #tarteaucitron ul#tarteaucitronServices_mandatory .tarteaucitronDeny {
         display: none!important;
     }
- 
+
     html body #tarteaucitronRoot #tarteaucitron .tarteaucitronBorder button,
     html body #tarteaucitronRoot #tarteaucitron .tarteaucitronAsk,
     html body #tarteaucitronRoot #tarteaucitron .tarteaucitronName {
@@ -589,8 +589,8 @@ span#tarteaucitronDisclaimerAlert {
 }
 
 #tarteaucitronRoot #tarteaucitronAlertBig {
-    background: #333;
-    color: #fff;
+    background: #fff;
+    color: #000;
     display: none;
     font-size: 15px !important;
     left: 0;
@@ -601,6 +601,7 @@ span#tarteaucitronDisclaimerAlert {
     padding: 10px 0 10px 0;
     margin: auto;
     width: 100%;
+    border: 1px solid black;
 }
 
 #tarteaucitronAlertBig #tarteaucitronPrivacyUrl,
@@ -608,7 +609,7 @@ span#tarteaucitronDisclaimerAlert {
 #tarteaucitronAlertBig #tarteaucitronDisclaimerAlert,
 #tarteaucitronAlertBig #tarteaucitronDisclaimerAlert strong {
     font: 15px verdana;
-    color: #fff;
+    color: #000;
 }
 
 #tarteaucitronAlertBig #tarteaucitronDisclaimerAlert strong {
@@ -714,8 +715,19 @@ span#tarteaucitronDisclaimerAlert {
     border: none;
 }
 #tarteaucitronIcon #tarteaucitronManager img {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
+    padding: 2px;
+    border-radius: 50%;
+    background: #fffa;
+}
+
+@media (max-width: 500px){
+  #tarteaucitronIcon #tarteaucitronManager img {
+      width: 30px;
+      height: 30px;
+      padding: 3px;
+  }
 }
 
 #tarteaucitronRoot .tarteaucitronCross::before {
@@ -991,4 +1003,20 @@ span.tarteaucitronTitle.tarteaucitronH3 {
 
 .tarteaucitron-display-none {
     display: none;
+}
+
+#tarteaucitronAlertBig #tarteaucitronAllDenied2,
+#tarteaucitronAlertBig #tarteaucitronCloseAlert{
+  background: none;
+  color: #000;
+  padding: 6px 15px;
+  text-decoration: underline;
+  padding: 6px 12px;
+}
+
+#tarteaucitronAlertBig #tarteaucitronPersonalize2{
+  border: 1px solid black;
+  background: #343434;
+  color: #fff;
+  padding: 6px 12px;
 }

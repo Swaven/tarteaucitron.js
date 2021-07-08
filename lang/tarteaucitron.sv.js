@@ -9,7 +9,7 @@ tarteaucitron.lang = {
     "alertBigClick": "Om du fortsätter att surfa på denna webbplats,",
     "alertBig": "du tillåter alla tjänster från tredje part",
 
-    "alertBigPrivacy": "Denna webbplats använder cookies och ger dig kontroll över vad du vill aktivera",
+    "alertBigPrivacy": "Vår partner vill använda cookies för att optimera sin trafik.",
     "alertSmall": "Hantera tjänster",
     "personalize": "Personifiera",
     "acceptAll": "OK, acceptera allt",
@@ -78,7 +78,7 @@ tarteaucitron.lang = {
         "title": "Övrig",
         "details": "Tjänster för att visa webbinnehåll."
     },
-    
-    "mandatoryTitle": "Mandatory cookies",
+
+    "mandatoryTitle": "Swaven",
     "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
 };
