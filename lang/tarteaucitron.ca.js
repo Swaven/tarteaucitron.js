@@ -4,19 +4,19 @@ tarteaucitron.lang = {
     "adblock": "Hola! Aquest lloc web és transparent i et dóna l'opció d'activar els serveis de tercers",
     "adblock_call": "Si us plau desactiva la teva AdBlocker per començar a personalitzar els serveis.",
     "reload": "Recarrega aquesta pàgina",
-    
+
     "alertBigScroll": "Al continuar desplaçant,",
     "alertBigClick": "Si continues navegant en aquest lloc web,",
     "alertBig": "estàs permetent serveis tercers",
-    
-    "alertBigPrivacy": "Aquest lloc web fa servir galetes i et permet controlar les que vols activar",
+
+    "alertBigPrivacy": "El nostre soci vol utilitzar cookies per optimitzar el seu trànsit.",
     "alertSmall": "Gestionar serveis",
     "personalize": "Personalitzar",
     "acceptAll": "OK, acceptar totes",
     "close": "Tancar",
 
     "privacyUrl": "Política de privacitat",
-    
+
     "all": "Ajustaments per a tots els serveis",
 
     "info": "Protegint la teva privacitat",
@@ -40,7 +40,7 @@ tarteaucitron.lang = {
     "denyAll": "Denega totes les galetes",
 
     "icon": "Cookies",
-    
+
     "fallback": "està deshabilitat.",
     "allowed": "Permès",
     "disallowed": "Desautoritzat",
@@ -77,7 +77,7 @@ tarteaucitron.lang = {
         "title": "Altres",
         "details": "Serveis per mostrar contingut web."
     },
-    
+
     "mandatoryTitle": "Swaven",
     "mandatoryText": "Aquest lloc utilitza galetes necessàries per al seu correcte funcionament que no es poden desactivar (cookies tècniques)."
 };

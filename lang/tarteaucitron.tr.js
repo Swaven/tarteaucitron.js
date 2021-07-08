@@ -5,12 +5,12 @@ tarteaucitron.lang = {
     "adblock": "Merhaba! Bu site şeffaflıkla oynar ve size etkinleştirilecek üçüncü taraf hizmetleri seçeneği sunar.",
     "adblock_call": "Kişiselleştirmeye başlamak için lütfen reklam engelleyicinizi devre dışı bırakın.",
     "reload": "Sayfayı yeniden yükle",
-    
+
     "alertBigScroll": "Kaydırma devam edien,",
     "alertBigClick": "Navigasyonunuza devam ederek,",
     "alertBig": "çerez yükleyebilecek üçüncü taraf hizmetlerinin kullanımını kabul edersiniz",
-    
-    "alertBigPrivacy": "Bu site çerezleri kullanır ve etkinleştirmek istediklerinizi kontrol etmenizi sağlar",
+
+    "alertBigPrivacy": "Ortağımız, trafiğini optimize etmek için çerezleri kullanmak istiyor.",
     "alertSmall": "Hizmet yönetimi",
     "acceptAll": "evet, her şeyi kabul edin",
     "personalize": "kişiselleştirmek",
@@ -42,7 +42,7 @@ tarteaucitron.lang = {
     "denyAll": "Tüm çerezleri yasaklayın",
 
     "icon": "Cookies",
-    
+
     "fallback": "devre dışı.",
     "allowed": "izin verildi",
     "disallowed": "izin verilmeyen",
@@ -81,7 +81,7 @@ tarteaucitron.lang = {
         "title": "diğer\n",
         "details": "Web içeriğini görüntüleme hizmetleri."
     },
-    
+
     "mandatoryTitle": "Swaven",
     "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
 };

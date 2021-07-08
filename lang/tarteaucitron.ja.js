@@ -4,19 +4,19 @@ tarteaucitron.lang = {
     "adblock": "Hello! This site is transparent and lets you chose the 3rd party services you want to allow.",
     "adblock_call": "Please disable your adblocker to start customizing.",
     "reload": "Refresh the page",
-    
+
     "alertBigScroll": "By continuing to scroll,",
     "alertBigClick": "If you continue to browse this website,",
     "alertBig": "you are allowing all third-party services",
-    
-    "alertBigPrivacy": "当サイトはクッキーを利用しております。お客様自身でクッキー利用の設定および管理ができます。",
+
+    "alertBigPrivacy": "私たちのパートナーは、Cookieを使用してトラフィックを最適化したいと考えています。",
     "alertSmall": "Manage services",
     "personalize": "カスタマイズする",
     "acceptAll": "全てに同意する",
     "close": "Close",
 
     "privacyUrl": "プライバシーポリシー",
-    
+
     "all": "Preference for all services",
 
     "info": "Protecting your privacy",
@@ -41,7 +41,7 @@ tarteaucitron.lang = {
     "denyAll": "すべてのクッキーを拒否する",
 
     "icon": "Cookies",
-    
+
     "fallback": "is disabled.",
     "allowed": "許可",
     "disallowed": "許可されていません",
@@ -78,7 +78,7 @@ tarteaucitron.lang = {
         "title": "Other",
         "details": "Services to display web content."
     },
-    
+
     "mandatoryTitle": "Swaven",
     "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
 };

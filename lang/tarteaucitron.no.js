@@ -9,7 +9,7 @@ tarteaucitron.lang = {
 	"alertBigClick"  : "Dersom du fortsetter å bruke dette nettstedet,",
 	"alertBig"       : "tillater du alle tredjeparts tjenester",
 
-	"alertBigPrivacy" : "Dette nettstedet bruker informasjonskapsler og gir deg kontroll over hva du vil aktivere",
+	"alertBigPrivacy" : "Vår partner ønsker å bruke informasjonskapsler for å optimalisere trafikken.",
 	"alertSmall"      : "Administrer tjenester",
 	"personalize"     : "Personaliser",
 	"acceptAll"       : "OK, aksepter alt",
