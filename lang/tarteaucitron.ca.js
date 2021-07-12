@@ -79,5 +79,5 @@ tarteaucitron.lang = {
     },
 
     "mandatoryTitle": "Swaven",
-    "mandatoryText": "Aquest lloc utilitza galetes necessàries per al seu correcte funcionament que no es poden desactivar (cookies tècniques)."
+    "mandatoryText": "Swaven ofereix un servei per ajudar els compradors a trobar productes i redirigir-los als seus minoristes preferits. Swaven no desa cap rastrejador ni galeta al vostre navegador."
 };

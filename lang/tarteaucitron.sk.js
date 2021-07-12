@@ -80,5 +80,5 @@ tarteaucitron.lang = {
     },
 
     "mandatoryTitle": "Swaven",
-    "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+    "mandatoryText": "Spoločnosť Swaven poskytuje službu, ktorá zákazníkom pomáha nájsť výrobky, a presmeruje ich k obľúbeným predajcom. Swaven neukladá vo vašom prehliadači žiadne značkovače ani cookies."
 };

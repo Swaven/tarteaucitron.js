@@ -80,5 +80,5 @@ tarteaucitron.lang = {
     },
 
     "mandatoryTitle": "Swaven",
-    "mandatoryText": "A webhely tartalmának megjelenítéséhez és a felhasználói bejelentkezéshez sütiket használunk amiket nem lehet kikapcsolni."
+    "mandatoryText": "Swaven piedāvā pakalpojumu, kas palīdz pircējiem atrast produktus un novirza tos pie iecienītākajiem mazumtirgotājiem. Swaven jūsu pārlūkprogrammā nesaglabā nekādus marķierus vai sīkfailus."
 };

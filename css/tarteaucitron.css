@@ -964,16 +964,6 @@ div#tarteaucitronInfo {
     border-color: #555;
 }
 
-a.tarteaucitronSelfLink {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: -30px;
-    text-align: center!important;
-    display: block;
-    height:30px;
-}
-
 .tarteaucitronMainLine .tarteaucitronH2 {
     font-size: 1.2em!important;
     margin-top: 4px!important;

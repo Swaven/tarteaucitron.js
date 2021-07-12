@@ -79,5 +79,5 @@ tarteaucitron.lang = {
     },
 
     "mandatoryTitle": "Swaven",
-    "mandatoryText": "This site uses cookies necessary for its proper functioning which cannot be deactivated."
+    "mandatoryText": "Swaven fornisce un servizio per aiutare gli acquirenti a trovare i prodotti e li reindirizza ai loro rivenditori preferiti. Swaven non salva alcun tracciante o cookie sul tuo browser."
 };

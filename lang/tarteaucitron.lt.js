@@ -80,5 +80,5 @@ tarteaucitron.lang = {
     },
 
     "mandatoryTitle": "Swaven",
-    "mandatoryText": "Ši svetainė naudoja slapukus, reikalingus tinkamam jos veikimui, kurių negalima išjungti."
+    "mandatoryText": "„Swaven“ teikia paslaugą, padedančią pirkėjams rasti produktus ir nukreipti juos į mėgstamus mažmenininkus. „Swaven“ jūsų naršyklėje neišsaugo jokių žymeklių ar slapukų."
 };
