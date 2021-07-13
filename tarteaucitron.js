@@ -32,6 +32,7 @@ var tarteaucitron = {
         "init": function () {},
         "load": function () {},
     },
+    availableLanguages: 'bg,ca,cn,cs,da,de,el,en,es,fi,fr,hu,it,ja,lt,lv,nl,no,oc,pl,pt,ro,ru,se,sk,sv,tr,vi,zh',
     "init": function (params) {
         "use strict";
         var origOpen;
@@ -1717,11 +1718,10 @@ var tarteaucitron = {
     "getLanguage": function () {
         "use strict";
 
-        var availableLanguages = 'bg,ca,cn,cs,da,de,el,en,es,fi,fr,hu,it,ja,lt,lv,nl,no,oc,pl,pt,ro,ru,se,sk,sv,tr,vi,zh',
-            defaultLanguage = 'en';
+        var defaultLanguage = 'en';
 
         if (tarteaucitronForceLanguage !== '') {
-            if (availableLanguages.indexOf(tarteaucitronForceLanguage) !== -1) {
+            if (tarteaucitron.availableLanguages.indexOf(tarteaucitronForceLanguage) !== -1) {
                 return tarteaucitronForceLanguage;
             }
         }
@@ -1732,7 +1732,7 @@ var tarteaucitron = {
                 navigator.systemLanguage || navigator.userLang || null,
             userLanguage = lang ? lang.substr(0, 2) : null;
 
-        if (availableLanguages.indexOf(userLanguage) === -1) {
+        if (tarteaucitron.availableLanguages.indexOf(userLanguage) === -1) {
             return defaultLanguage;
         }
         return userLanguage;
