@@ -766,6 +766,10 @@ var tarteaucitron = {
             html += '       <span class="tarteaucitronH3" role="heading" aria-level="3">' + service.name + '</span>';
             html += '       <span class="tacCurrentStatus" id="tacCurrentStatus' + service.key + '">'+currentStatus+'</span>';
             html += '       <span class="tarteaucitronReadmoreSeparator"> - </span>';
+            if (service.description){
+                html += '       <span class="svc-desc">' + service.description + '</span>';
+                html += '       <span class="tarteaucitronReadmoreSeparator"> - </span>';
+            }
             html += '       <span id="tacCL' + service.key + '" class="tarteaucitronListCookies"></span><br/>';
             if (tarteaucitron.parameters.moreInfoLink == true) {
 

@@ -1010,3 +1010,7 @@ span.tarteaucitronTitle.tarteaucitronH3 {
   color: #fff;
   padding: 6px 12px;
 }
+
+.svc-desc{
+    font-size: 12px !important;
+}
